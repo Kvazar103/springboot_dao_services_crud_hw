@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringbootDaoServicesCrudHwApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringbootDaoServicesCrudHwApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SpringbootDaoServicesCrudHwApplication.class, args);
+    }
 
 }
